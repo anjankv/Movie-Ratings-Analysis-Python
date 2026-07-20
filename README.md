@@ -73,14 +73,53 @@ This project includes the following analyses:
 
 The project contains multiple visualizations, including:
 
-- 📌 Top 10 Rated Movies
-- 📌 Genre-wise Average IMDb Ratings
-- 📌 Top Genres by IMDb Rating
-- 📌 Top Directors by IMDb Rating
-- 📌 Average IMDb Rating Trend Over Years
-- 📌 Gross Revenue vs IMDb Rating Scatter Plot
-- 📌 Correlation Heatmap
-- 📌 Genre Distribution Pie Chart
+## 📈 Visualizations
+
+### ⭐ Top 10 Rated Movies
+
+Displays the top 10 highest-rated movies in the IMDb Top 1000 dataset.
+
+![Top 10 Rated Movies](Images/top_movies.png)
+
+---
+
+### 🎬 Top Directors by Average IMDb Rating
+
+Shows the directors with the highest average IMDb ratings based on the dataset.
+
+![Top Directors](Images/top_directors.png)
+
+---
+
+### 🎭 Top Genres by Average IMDb Rating
+
+Compares movie genres based on their average IMDb ratings.
+
+![Top Genres](Images/top_genres.png)
+
+---
+
+### 📅 IMDb Rating Trend Over Years
+
+Visualizes the trend of average IMDb ratings across different release years.
+
+![IMDb Rating Trend](Images/yearly_trend.png)
+
+---
+
+### 🔥 Correlation Heatmap
+
+Illustrates the correlation between IMDb Rating, Meta Score, Number of Votes, and Gross Revenue.
+
+![Correlation Heatmap](Images/heatmap.png)
+
+---
+
+### 🥧 Genre Distribution
+
+Displays the distribution of movie genres within the IMDb Top 1000 dataset.
+
+![Genre Distribution](Images/genre_distribution.png)
 
 ---
 
