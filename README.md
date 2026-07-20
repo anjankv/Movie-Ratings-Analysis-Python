@@ -177,21 +177,6 @@ Movie-Ratings-Analysis/
 
 ---
 
-## 📷 Sample Visualizations
-
-Add your chart screenshots inside the **images** folder and reference them here.
-
-Example:
-
-```md
-### Top 10 Rated Movies
-
-![Top Movies](images/top_10_movies.png)
-
-### Correlation Heatmap
-
-![Heatmap](images/heatmap.png)
-```
 
 ---
 
